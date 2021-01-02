@@ -111,7 +111,7 @@ body {
     background-color: #2c71b8;
     background-image: url(images/search.png);
     background-repeat: no-repeat;
-    background-position: center;
+    background-position: center, center;
 }
 .input-search-button:focus {
     outline: none;
